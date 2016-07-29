@@ -1,0 +1,13 @@
+C:\Users\KColestock\Downloads\CSharpBP-Basics-master (2)\CSharpBP-Basics-master\AcmeApp\Acme.Win\bin\Debug\Acme.Win.exe.config
+C:\Users\KColestock\Downloads\CSharpBP-Basics-master (2)\CSharpBP-Basics-master\AcmeApp\Acme.Win\bin\Debug\Acme.Win.exe
+C:\Users\KColestock\Downloads\CSharpBP-Basics-master (2)\CSharpBP-Basics-master\AcmeApp\Acme.Win\bin\Debug\Acme.Win.pdb
+C:\Users\KColestock\Downloads\CSharpBP-Basics-master (2)\CSharpBP-Basics-master\AcmeApp\Acme.Win\bin\Debug\Acme.Biz.dll
+C:\Users\KColestock\Downloads\CSharpBP-Basics-master (2)\CSharpBP-Basics-master\AcmeApp\Acme.Win\bin\Debug\Acme.Common.dll
+C:\Users\KColestock\Downloads\CSharpBP-Basics-master (2)\CSharpBP-Basics-master\AcmeApp\Acme.Win\bin\Debug\Acme.Biz.pdb
+C:\Users\KColestock\Downloads\CSharpBP-Basics-master (2)\CSharpBP-Basics-master\AcmeApp\Acme.Win\bin\Debug\Acme.Common.pdb
+C:\Users\KColestock\Downloads\CSharpBP-Basics-master (2)\CSharpBP-Basics-master\AcmeApp\Acme.Win\obj\Debug\Acme.Win.csprojResolveAssemblyReference.cache
+C:\Users\KColestock\Downloads\CSharpBP-Basics-master (2)\CSharpBP-Basics-master\AcmeApp\Acme.Win\obj\Debug\Acme.Win.Properties.Resources.resources
+C:\Users\KColestock\Downloads\CSharpBP-Basics-master (2)\CSharpBP-Basics-master\AcmeApp\Acme.Win\obj\Debug\Acme.Win.VendorWin.resources
+C:\Users\KColestock\Downloads\CSharpBP-Basics-master (2)\CSharpBP-Basics-master\AcmeApp\Acme.Win\obj\Debug\Acme.Win.csproj.GenerateResource.Cache
+C:\Users\KColestock\Downloads\CSharpBP-Basics-master (2)\CSharpBP-Basics-master\AcmeApp\Acme.Win\obj\Debug\Acme.Win.exe
+C:\Users\KColestock\Downloads\CSharpBP-Basics-master (2)\CSharpBP-Basics-master\AcmeApp\Acme.Win\obj\Debug\Acme.Win.pdb

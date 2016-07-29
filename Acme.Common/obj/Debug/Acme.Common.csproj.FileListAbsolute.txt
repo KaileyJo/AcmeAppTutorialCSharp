@@ -1,0 +1,5 @@
+C:\Users\KColestock\Downloads\CSharpBP-Basics-master (2)\CSharpBP-Basics-master\AcmeApp\Acme.Common\bin\Debug\Acme.Common.dll
+C:\Users\KColestock\Downloads\CSharpBP-Basics-master (2)\CSharpBP-Basics-master\AcmeApp\Acme.Common\bin\Debug\Acme.Common.pdb
+C:\Users\KColestock\Downloads\CSharpBP-Basics-master (2)\CSharpBP-Basics-master\AcmeApp\Acme.Common\obj\Debug\Acme.Common.csprojResolveAssemblyReference.cache
+C:\Users\KColestock\Downloads\CSharpBP-Basics-master (2)\CSharpBP-Basics-master\AcmeApp\Acme.Common\obj\Debug\Acme.Common.dll
+C:\Users\KColestock\Downloads\CSharpBP-Basics-master (2)\CSharpBP-Basics-master\AcmeApp\Acme.Common\obj\Debug\Acme.Common.pdb

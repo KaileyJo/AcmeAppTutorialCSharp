@@ -1,0 +1,8 @@
+C:\Users\KColestock\Downloads\CSharpBP-Basics-master (2)\CSharpBP-Basics-master\AcmeApp\Tests\Acme.CommonTests\bin\Debug\Acme.CommonTests.dll
+C:\Users\KColestock\Downloads\CSharpBP-Basics-master (2)\CSharpBP-Basics-master\AcmeApp\Tests\Acme.CommonTests\bin\Debug\Acme.CommonTests.pdb
+C:\Users\KColestock\Downloads\CSharpBP-Basics-master (2)\CSharpBP-Basics-master\AcmeApp\Tests\Acme.CommonTests\bin\Debug\Acme.Common.dll
+C:\Users\KColestock\Downloads\CSharpBP-Basics-master (2)\CSharpBP-Basics-master\AcmeApp\Tests\Acme.CommonTests\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Users\KColestock\Downloads\CSharpBP-Basics-master (2)\CSharpBP-Basics-master\AcmeApp\Tests\Acme.CommonTests\bin\Debug\Acme.Common.pdb
+C:\Users\KColestock\Downloads\CSharpBP-Basics-master (2)\CSharpBP-Basics-master\AcmeApp\Tests\Acme.CommonTests\obj\Debug\Acme.CommonTests.csprojResolveAssemblyReference.cache
+C:\Users\KColestock\Downloads\CSharpBP-Basics-master (2)\CSharpBP-Basics-master\AcmeApp\Tests\Acme.CommonTests\obj\Debug\Acme.CommonTests.dll
+C:\Users\KColestock\Downloads\CSharpBP-Basics-master (2)\CSharpBP-Basics-master\AcmeApp\Tests\Acme.CommonTests\obj\Debug\Acme.CommonTests.pdb
